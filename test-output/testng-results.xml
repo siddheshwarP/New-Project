@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-24T16:05:17 IST" name="Default suite" finished-at="2023-07-24T16:05:20 IST" duration-ms="3680">
+    <groups>
+    </groups>
+    <test started-at="2023-07-24T16:05:17 IST" name="Default test" finished-at="2023-07-24T16:05:20 IST" duration-ms="3680">
+      <class name="test.AutomateSauco">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.AutomateSauco@27462a88]" started-at="2023-07-24T16:05:17 IST" name="setup" finished-at="2023-07-24T16:05:19 IST" duration-ms="2853" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="login()[pri:-1, instance:test.AutomateSauco@27462a88]" started-at="2023-07-24T16:05:19 IST" name="login" finished-at="2023-07-24T16:05:20 IST" duration-ms="187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="countImage()[pri:0, instance:test.AutomateSauco@27462a88]" started-at="2023-07-24T16:05:20 IST" name="countImage" finished-at="2023-07-24T16:05:20 IST" duration-ms="103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- countImage -->
+        <test-method signature="vrifyLogo()[pri:0, instance:test.AutomateSauco@27462a88]" started-at="2023-07-24T16:05:20 IST" name="vrifyLogo" finished-at="2023-07-24T16:05:20 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- vrifyLogo -->
+        <test-method signature="verifyPageTitle()[pri:1, instance:test.AutomateSauco@27462a88]" started-at="2023-07-24T16:05:20 IST" name="verifyPageTitle" finished-at="2023-07-24T16:05:20 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPageTitle -->
+        <test-method signature="selectDropdown()[pri:2, instance:test.AutomateSauco@27462a88]" started-at="2023-07-24T16:05:20 IST" name="selectDropdown" finished-at="2023-07-24T16:05:20 IST" duration-ms="94" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectDropdown -->
+        <test-method signature="selectProduct()[pri:3, instance:test.AutomateSauco@27462a88]" started-at="2023-07-24T16:05:20 IST" name="selectProduct" finished-at="2023-07-24T16:05:20 IST" duration-ms="31" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectProduct -->
+        <test-method signature="clickonCart()[pri:4, instance:test.AutomateSauco@27462a88]" started-at="2023-07-24T16:05:20 IST" name="clickonCart" finished-at="2023-07-24T16:05:20 IST" duration-ms="39" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickonCart -->
+        <test-method signature="checkout()[pri:5, instance:test.AutomateSauco@27462a88]" started-at="2023-07-24T16:05:20 IST" name="checkout" finished-at="2023-07-24T16:05:20 IST" duration-ms="37" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkout -->
+        <test-method signature="information()[pri:6, instance:test.AutomateSauco@27462a88]" started-at="2023-07-24T16:05:20 IST" name="information" finished-at="2023-07-24T16:05:20 IST" duration-ms="173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- information -->
+        <test-method signature="validatePaymentInformation()[pri:7, instance:test.AutomateSauco@27462a88]" started-at="2023-07-24T16:05:20 IST" name="validatePaymentInformation" finished-at="2023-07-24T16:05:20 IST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePaymentInformation -->
+        <test-method is-config="true" signature="finish()[pri:0, instance:test.AutomateSauco@27462a88]" started-at="2023-07-24T16:05:20 IST" name="finish" finished-at="2023-07-24T16:05:20 IST" duration-ms="106" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+      </class> <!-- test.AutomateSauco -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
